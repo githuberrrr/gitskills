@@ -4,3 +4,7 @@ creating a new branch is quick and simple!
 testmerge
 
 complex
+t
+
+bug
+estmerge
