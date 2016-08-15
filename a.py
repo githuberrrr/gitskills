@@ -1,1 +1,2 @@
 haha
+print('hello world')
